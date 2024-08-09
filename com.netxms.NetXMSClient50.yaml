@@ -37,12 +37,12 @@ modules:
       - type: file
         path: netxms-client.sh
       - type: file
-        url: https://raw.githubusercontent.com/netxms/appstream/master/5.0/com.netxms.NetXMSClient50.desktop
+        url: https://raw.githubusercontent.com/netxms/appstream/09750e14ca0f759999dcc936de16efcec6d7db6c/5.0/com.netxms.NetXMSClient50.desktop
         sha256: 928e1f11ef1d93592295d1038dbbe61f647b839d318235112123dbbe73a512d6
       - type: file
-        url: https://raw.githubusercontent.com/netxms/appstream/master/5.0/com.netxms.NetXMSClient50.metainfo.xml
-        sha256: 986ae98bd4e3219f16b8e1c7534b7330d528442d78eaf03712787a2b822e24c1
+        url: https://raw.githubusercontent.com/netxms/appstream/09750e14ca0f759999dcc936de16efcec6d7db6c/5.0/com.netxms.NetXMSClient50.metainfo.xml
+        sha256: 37929f50fb222b80d1aeecf54239a7a5df97a3dd2f45e26d2f3a5bfc4125b9ad
       - type: file
-        url: https://raw.githubusercontent.com/netxms/appstream/master/5.0/netxms-icon.svg
+        url: https://raw.githubusercontent.com/netxms/appstream/09750e14ca0f759999dcc936de16efcec6d7db6c/5.0/netxms-icon.svg
         sha256: 2be6744ec2dfad5dbfd76c66eb161136bb7294736ebb053dc8f901881c5409bc
         dest-filename: netxms.svg
